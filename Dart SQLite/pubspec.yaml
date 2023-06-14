@@ -1,0 +1,5 @@
+name: test
+environment:
+  sdk: '^3.0.0'
+dependencies:
+  sqflite_common_ffi: ^2.2.5
